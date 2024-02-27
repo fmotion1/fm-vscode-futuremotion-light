@@ -1,0 +1,21 @@
+{
+  "name": "futuremotion-light",
+  "displayName": "Futuremotion Light",
+  "description": "My personal light theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Futuremotion Light",
+        "uiTheme": "vs",
+        "path": "./themes/Futuremotion Light-color-theme.json"
+      }
+    ]
+  }
+}
