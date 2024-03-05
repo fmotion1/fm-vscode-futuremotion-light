@@ -1195,7 +1195,7 @@
                 "support.class"
             ],
             "settings": {
-                "fontStyle": "bold",
+                "fontStyle": "",
                 "foreground": "#7A3E9D"
             }
         },
@@ -1210,7 +1210,7 @@
             "name": "Sections",
             "scope": "entity.name.section",
             "settings": {
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -1342,7 +1342,7 @@
             "name": "CSS: Important Keyword",
             "scope": "keyword.other.important",
             "settings": {
-                "fontStyle": "bold"
+                "fontStyle": ""
             }
         },
         {
@@ -3305,7 +3305,8 @@
                 "support.type.property-name.css"
             ],
             "settings": {
-                "foreground": "#6c39ca",
+                //"foreground": "#9165e3",
+                "foreground": "#cf4a69",
                 "fontStyle": ""
             }
         },
@@ -3378,7 +3379,9 @@
                 "keyword.other.unit.px.css",
                 "keyword.other.unit.vh.css",
                 "keyword.other.unit.em.css",
-                "keyword.other.unit.s.css"
+                "keyword.other.unit.s.css",
+                "keyword.other.unit.pt.css",
+
             ],
             "settings": {
                 "foreground": "#798087",
@@ -3442,7 +3445,7 @@
                 "string.quoted.single.html"
             ],
             "settings": {
-                "foreground": "#2E5EA4",
+                "foreground": "#90a7ca",
                 "fontStyle": ""
             }
         },
@@ -3453,7 +3456,7 @@
                 "punctuation.definition.tag.end.html"
             ],
             "settings": {
-                "foreground": "#3D424A",
+                "foreground": "#797c83",
                 "fontStyle": ""
             }
         },
@@ -3462,7 +3465,7 @@
                 "entity.other.attribute-name.html"
             ],
             "settings": {
-                "foreground": "#6C7E91",
+                "foreground": "#84a2a7",
                 "fontStyle": ""
             }
         },
