@@ -2,24 +2,55 @@
     "name": "futuremotion-light",
     "displayName": "Futuremotion Light",
     "description": "My personal light theme.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "author": "Jay Soren <admin@fmotiondev.com>",
+    "publisher": "Futuremotion",
+    "icon": "./img/extensionIcon.png",
+    "galleryBanner": {
+        "color": "#1b1f23",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/fmotion1/Futuremotion-Light",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fmotion1/Futuremotion-Light",
+        "docs": "https://github.com/fmotion1/Futuremotion-Light/blob/main/README.md"
+    },
+    "bugs": {
+        "url": "https://github.com/fmotion1/Futuremotion-Light/issues"
+    },
     "engines": {
         "vscode": "^1.86.0"
     },
     "categories": [
         "Themes"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/fmotion1/Futuremotion-Light"
-    },
+    "keywords": [
+        "theme",
+        "Light Theme",
+        "Futuremotion"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Futuremotion Light",
                 "uiTheme": "vs",
-                "path": "./themes/Futuremotion Light-color-theme.json"
+                "path": "./themes/futuremotion-light.json"
             }
         ]
+    },
+    "devDependencies": {
+        "@changesets/changelog-github": "^0.5.0",
+        "@changesets/cli": "^2.27.1",
+        "@primer/primitives": "^7.15.12",
+        "@vscode/vsce": "^2.24.0",
+        "chroma-js": "^2.4.2",
+        "color": "^4.2.3",
+        "nodemon": "^3.1.0"
+    },
+    "scripts": {
+        "package": "mkdir build && vsce package -o ./build/fm-theme-futuremotion-light.vsix",
+        "prepublishOnly": "vsce publish"
     }
 }
