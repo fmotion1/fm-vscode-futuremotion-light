@@ -11,14 +11,14 @@
         "theme": "light"
     },
     "license": "MIT",
-    "homepage": "https://github.com/fmotion1/Futuremotion-Light",
+    "homepage": "https://github.com/fmotion1/fm-vscode-futuremotion-light",
     "repository": {
         "type": "git",
-        "url": "https://github.com/fmotion1/Futuremotion-Light",
-        "docs": "https://github.com/fmotion1/Futuremotion-Light/blob/main/README.md"
+        "url": "https://github.com/fmotion1/fm-vscode-futuremotion-light",
+        "docs": "https://github.com/fmotion1/fm-vscode-futuremotion-light/blob/main/README.md"
     },
     "bugs": {
-        "url": "https://github.com/fmotion1/Futuremotion-Light/issues"
+        "url": "https://github.com/fmotion1/fm-vscode-futuremotion-light/issues"
     },
     "engines": {
         "vscode": "^1.86.0"
