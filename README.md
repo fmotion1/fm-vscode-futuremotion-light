@@ -23,7 +23,7 @@ This is my own personal light VSCode theme with an extreme amount of fine-tuning
 
 ## Installation From VSIX
 
-- Download fm-theme-futuremotion-light.vsix
+- Download [fm-theme-futuremotion-light.vsix](https://github.com/fmotion1/fm-vscode-futuremotion-light/raw/main/build/fm-theme-futuremotion-light.vsix)
 - Install it by following [these instructions](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix)
 
 
