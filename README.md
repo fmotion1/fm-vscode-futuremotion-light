@@ -1,7 +1,7 @@
 <p align="center">
-
+<a href="https://github.com/futuremotiondev/fm-vscode-futuremotion-light">
 <img alt="Futuremotion Light" title="Futuremotion Light" src="img/hero.png" width="100%">
-
+</a>
 </p>
 
 <p align="center">
@@ -58,6 +58,8 @@ This is my own personal light VSCode theme with an extreme amount of fine-tuning
 ---
 
 ![TypeScript](img/TypescriptReact.png)
-
+<a href="https://github.com/futuremotiondev/fm-vscode-futuremotion-light">
 <img src="img/changelog-footer.png" alt="drawing" width="320"/>
+</a>
+
 
