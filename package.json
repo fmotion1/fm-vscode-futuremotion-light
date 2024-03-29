@@ -7,8 +7,8 @@
     "publisher": "Futuremotion",
     "icon": "./img/extensionIcon.png",
     "galleryBanner": {
-        "color": "#1b1f23",
-        "theme": "dark"
+        "color": "#E3E6E9",
+        "theme": "light"
     },
     "license": "MIT",
     "homepage": "https://github.com/fmotion1/Futuremotion-Light",

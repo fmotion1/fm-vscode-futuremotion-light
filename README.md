@@ -1,13 +1,23 @@
-# Futuremotion Light
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="Futuremotion Light" title="GitPoint" src="./img/hero.png" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <h4 align="center">A no-nonsense, highly optimized VSCode light theme</h4>
+</p>
 
 
-This is my own personal light VSCode theme with an extreme amount of fine-tuning with regards to language syntax highlighting and the VSCode UI.
 
-It's meant to be as un-obtrusive as possible so you can focus on coding.
+This is my own personal light VSCode theme with an extreme amount of fine-tuning with regards to language syntax highlighting and the VSCode UI. It's meant to be as un-obtrusive as possible so you can focus on coding.
 
-## Initial Release (1.0.0)
 
-### Javascript
+
+## Screenshots
+
+
+#### Javascript
 ---
 
 ![Javascript](Img/JavaScript.png)
