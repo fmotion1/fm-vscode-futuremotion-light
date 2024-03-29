@@ -1,5 +1,4 @@
 node_modules
-*.vsix
 img/extensionIcon.psd
 .vscode
 *.code-workspace
