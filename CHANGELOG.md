@@ -11,22 +11,36 @@ All notable changes to this theme will be documented here.
 ---
 
 
-#### 1.0.1: Syntax Highlighting
+## 1.0.0
 
-- v1.0 JavaScript+JavaScript React
-- v1.0 TypeScript
-- v1.0 JSON
-- v1.0 PowerShell
-- v1.0 CSS
-- v1.0 HTML
+- **Syntax Highlighting**
+  - JavaScript+JavaScript React
+  - TypeScript
+  - JSON
+  - PowerShell
+  - CSS
+  - HTML
+  - C#
+<br/>
+
+- **VSCode Chrome**
+  - Fine-tuned as many color tokens as possible.
+  - Started to define a unified design system for coloring the UI.
+  - Working on various design tokens to be implemented later.
 
 ---
 
-#### 1.0.1 VSCode Chrome
+## 1.0.2 (03-29-2024)
 
-- Fine tuned as many color tokens as possible to keep the theme as consistant as possible.
+- **Maintenance**
+  - Updated README
+  - Updated LICENSE
+  - Updated CHANGELOG
+  - Redesigned Landing Page
+  - Rebuilt VSIX
 
 
 <br/>
 <br/>
-<img src="img/changelog-footer.png" alt="drawing" width="320"/>
+<a href="https://github.com/futuremotiondev/fm-vscode-futuremotion-light">
+<img src="img/changelog-footer.png" alt="drawing" width="320"/></a>
