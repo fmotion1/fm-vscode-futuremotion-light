@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="Futuremotion Light" title="GitPoint" src="./img/hero.png" width="100%">
+    <img alt="Futuremotion Light" title="Futuremotion Light" src="https://raw.githubusercontent.com/fmotion1/Futuremotion-Light/main/Img/hero.png" width="100%">
   </a>
 </p>
 
