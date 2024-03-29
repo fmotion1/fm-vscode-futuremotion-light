@@ -1,6 +1,6 @@
 <p align="center">
 
-<img alt="Futuremotion Light" title="Futuremotion Light" src="https://raw.githubusercontent.com/fmotion1/fm-vscode-futuremotion-light/main/Img/hero.png" width="100%">
+<img alt="Futuremotion Light" title="Futuremotion Light" src="img/hero.png" width="100%">
 
 </p>
 
@@ -12,7 +12,11 @@
 
 This is my own personal light VSCode theme with an extreme amount of fine-tuning with regards to language syntax highlighting and the VSCode UI. It's meant to be as un-obtrusive as possible so you can focus on coding.
 
-## Installation From Marketplace
+## Installation from the Marketplace
+
+[Click here for the marketplace link.](https://marketplace.visualstudio.com/items?itemName=futuremotion.futuremotion-light)
+
+## Installation from within VSCode
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
@@ -23,7 +27,7 @@ This is my own personal light VSCode theme with an extreme amount of fine-tuning
 
 ## Installation From VSIX
 
-- Download [fm-theme-futuremotion-light.vsix](https://github.com/fmotion1/fm-vscode-futuremotion-light/raw/main/build/fm-theme-futuremotion-light.vsix)
+- Download [fm-theme-futuremotion-light.vsix](https://github.com/futuremotiondev/fm-vscode-futuremotion-light/raw/main/build/fm-theme-futuremotion-light.vsix)
 - Install it by following [these instructions](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix)
 
 
@@ -33,26 +37,27 @@ This is my own personal light VSCode theme with an extreme amount of fine-tuning
 #### Javascript
 ---
 
-![Javascript](Img/JavaScript.png)
+![Javascript](img/JavaScript.png)
 
 ### CSS
 ---
 
-![CSS](Img/CSS.png)
+![CSS](img/CSS.png)
 
 ### HTML
 ---
 
-![HTML](Img/HTML.png)
+![HTML](img/HTML.png)
 
 ### Powershell
 ---
 
-![Powershell](Img/Powershell.png)
+![Powershell](img/Powershell.png)
 
 ### TypeScript+TypeScript React
 ---
 
-![TypeScript](Img/TypescriptReact.png)
+![TypeScript](img/TypescriptReact.png)
 
+<img src="img/changelog-footer.png" alt="drawing" width="320"/>
 

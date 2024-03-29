@@ -1,9 +1,9 @@
 {
     "name": "futuremotion-light",
     "displayName": "Futuremotion Light",
-    "description": "My personal light theme.",
-    "version": "1.0.0",
-    "author": "Jay Soren <admin@fmotiondev.com>",
+    "description": "Minimal and Functional.",
+    "version": "1.0.2",
+    "author": "Futuremotion <admin@fmotiondev.com>",
     "publisher": "Futuremotion",
     "icon": "./img/extensionIcon.png",
     "galleryBanner": {
@@ -11,14 +11,14 @@
         "theme": "light"
     },
     "license": "MIT",
-    "homepage": "https://github.com/fmotion1/fm-vscode-futuremotion-light",
+    "homepage": "https://github.com/futuremotiondev/fm-vscode-futuremotion-light",
     "repository": {
         "type": "git",
-        "url": "https://github.com/fmotion1/fm-vscode-futuremotion-light",
-        "docs": "https://github.com/fmotion1/fm-vscode-futuremotion-light/blob/main/README.md"
+        "url": "https://github.com/futuremotiondev/fm-vscode-futuremotion-light.git",
+        "docs": "https://github.com/futuremotiondev/fm-vscode-futuremotion-light/blob/main/README.md"
     },
     "bugs": {
-        "url": "https://github.com/fmotion1/fm-vscode-futuremotion-light/issues"
+        "url": "https://github.com/futuremotiondev/fm-vscode-futuremotion-light/issues"
     },
     "engines": {
         "vscode": "^1.86.0"

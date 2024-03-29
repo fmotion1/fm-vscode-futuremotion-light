@@ -1,4 +1,6 @@
 node_modules
 img/extensionIcon.psd
 .vscode
+.vscodeignore
 *.code-workspace
+*.psd
