@@ -5,6 +5,8 @@
 		}
     ],
     "settings": {
-        "vsc-nodecmd.packageNotifications": false
+        "vsc-nodecmd.packageNotifications": false,
+        "powershell.cwd": "D:\\Dev\\VSCode\\Projects\\themes\\fm-theme-futuremotion-light",
+        "terminal.integrated.cwd": "D:\\Dev\\VSCode\\Projects\\themes\\fm-theme-futuremotion-light"
     }
 }
