@@ -1,22 +1,10 @@
-<p align="center">
-<a href="https://github.com/futuremotiondev/fm-vscode-futuremotion-light">
-<img alt="Futuremotion Light" title="Futuremotion Light" src="img/hero.png" width="100%">
-</a>
-</p>
-
-<p align="center">
-  <h4 align="center">A no-nonsense, highly optimized VSCode light theme</h4>
-</p>
-
-
-
 This is my own personal light VSCode theme with an extreme amount of fine-tuning with regards to language syntax highlighting and the VSCode UI. It's meant to be as un-obtrusive as possible so you can focus on coding.
 
-## Installation from the Marketplace
+### Installation from the Marketplace
 
 [Click here for the marketplace link.](https://marketplace.visualstudio.com/items?itemName=futuremotion.futuremotion-light)
 
-## Installation from within VSCode
+### Installation from within VSCode
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
@@ -25,16 +13,16 @@ This is my own personal light VSCode theme with an extreme amount of fine-tuning
 5.  Click **Install** to install it
 6.  From the menu bar click: Code > Preferences > Color Theme > **Futuremotion Light**
 
-## Installation From VSIX
+### Installation From VSIX
 
 - Download [fm-theme-futuremotion-light.vsix](https://github.com/futuremotiondev/fm-vscode-futuremotion-light/raw/main/build/fm-theme-futuremotion-light.vsix)
 - Install it by following [these instructions](https://code.visualstudio.com/docs/editor/extension-gallery#_install-from-a-vsix)
 
 
-## Screenshots
 
 
-#### Javascript
+
+### Javascript
 ---
 
 ![Javascript](img/JavaScript.png)
@@ -58,8 +46,4 @@ This is my own personal light VSCode theme with an extreme amount of fine-tuning
 ---
 
 ![TypeScript](img/TypescriptReact.png)
-<a href="https://github.com/futuremotiondev/fm-vscode-futuremotion-light">
-<img src="img/changelog-footer.png" alt="drawing" width="320"/>
-</a>
-
 

@@ -39,8 +39,3 @@ All notable changes to this theme will be documented here.
   - Redesigned Landing Page
   - Rebuilt VSIX
 
-
-<br/>
-<br/>
-<a href="https://github.com/futuremotiondev/fm-vscode-futuremotion-light">
-<img src="img/changelog-footer.png" alt="drawing" width="320"/></a>
